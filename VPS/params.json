@@ -1,0 +1,83 @@
+{
+  "discordGuildId": 719865228002721854,
+  "onJoinRolesToAdd": ">> Invité <<",
+  "rulesMessageId": 777936027402764289,
+  "emojiNameToAcceptRules": "valide",
+  "onAcceptRulesRolesToRemove": ">> Invité <<",
+  "onAcceptRulesRolesToAdd": ">> Membre <<",
+  "rolesMessageID": 778707337535815703,
+  "roles" : [
+    {
+      "roleName": "Bash",
+      "emoji": "<:bash:721263379028770837>"
+    },
+    {
+      "roleName": "Discord.Js",
+      "emoji": "<:DiscordJS:778629815841587200>"
+    },
+    {
+      "roleName": "Discord.Py",
+      "emoji": "<:discordpy:778630959411101736>"
+    },
+    {
+      "roleName": "C",
+      "emoji": "<:c_:778631913308946482>"
+    },
+    {
+      "roleName": "C++",
+      "emoji": "<:c_:778636903816626206>"
+    },
+    {
+      "roleName": "C#",
+      "emoji": "<:csharp:721265537937834015>"
+    },
+    {
+      "roleName": "HTML/CSS",
+      "emoji": "<:css:721258728807989358>"
+    },
+    {
+      "roleName": "Java",
+      "emoji": "<:java:721257657645793280>"
+    },
+    {
+      "roleName": "JS/TS",
+      "emoji": "<:js:721257658224476200>"
+    },
+    {
+      "roleName": "Kotlin",
+      "emoji": "<:kotlin:721257658107166750>"
+    },
+    {
+      "roleName": "Php",
+      "emoji": "<:php:721257658287521812>"
+    },
+    {
+      "roleName": "Python",
+      "emoji": "<:python:721257657578815539>"
+    },
+    {
+      "roleName": "Ruby",
+      "emoji": "<:ruby:778634131437387826>"
+    },
+    {
+      "roleName": "Scala",
+      "emoji": "<:scala:721257658203504661>"
+    },
+    {
+      "roleName": "SQL",
+      "emoji": "<:sql:778638112833273859>"
+    },
+    {
+      "roleName": "Sys Admin",
+      "emoji": "<:sys:778635027478872064>"
+    },
+    {
+      "roleName": "UI UX",
+      "emoji": "<:uiux:778635323168260137>"
+    },
+    {
+      "roleName": "Autre",
+      "emoji": "<:dev:777979147985092660>"
+    }
+  ]
+}
